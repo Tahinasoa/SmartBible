@@ -2,6 +2,20 @@
 
 This project was built to solve a real problem: converting a raw XML Bible into a fast, reliable display system for live church services. I have maintained and used this system in production for over 3 years.
 
+## 📸 Screenshots Gallery
+
+|            Main Interface             |              Search Engine              |
+| :-----------------------------------: | :-------------------------------------: |
+| ![Main](screenshots/screenshot_1.png) | ![Search](screenshots/screenshot_2.png) |
+
+|                 Dual screen                 |                Themes                 |
+| :-----------------------------------------: | :-----------------------------------: |
+| ![Projection](screenshots/screenshot_3.png) | ![Data](screenshots/screenshot_5.png) |
+
+|             Live presentation             |
+| :---------------------------------------: |
+| ![Settings](screenshots/screenshot_4.png) |
+
 ## 🏗️ Project Architecture
 
 The repository is structured to separate data concerns from the presentation layer:
