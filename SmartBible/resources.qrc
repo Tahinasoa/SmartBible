@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bible.png</file>
+    <file>icons/start.png</file>
+    <file>icons/refresh.png</file>
+    <file>icons/zoomin.png</file>
+    <file>icons/zoomout.png</file>
+  </qresource>
+</RCC>
